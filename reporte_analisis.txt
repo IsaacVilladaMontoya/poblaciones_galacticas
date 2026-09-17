@@ -1,0 +1,9 @@
+# pille la grafica ome gei, me quede como media hora tratando de llamar las columnas por que no las leia el dataframe y cuando veo usted no le quito la primera fila que era #tabla 1, hpta 
+
+# Por otro lado pues según investigué las magnitudes u y g pues se refieren a la banda con la que se observó la estrella o galaxia, entonces básicamente u-g muestra es una especie de índice de color. Todavía no se porqué pero parece que un u-g pequeño o negativo indica que el objeto es mas azul y un u-g grande indica que es un objeto mas rojo. 
+
+# Ahora pa responder la pregunta que nos proponen en el enunciado, en el histograma se ve claramente que hay una diferencia sistematica de color entre las estrellas y las Galaxias en ese rango de magnitudes con el que hiciste la query, ahí en el script de Python calculé la media de las distribuciones de las trellas y de las galaxias
+
+# Y ya por ultimo, en la imagen que adjunto ahí se muestran 2 graficas. Una muestra las distribuciones de el índice de color y otra también pero enfocada en los valores extremos que habían en el csv, si quiere puede volver a hacer la query, pero teniendo en cuenta el error asociado a las magnitudes pa ver si eran datos malos. Por que un índice de color de -12 significa que las dos bandas midieron colores demasiado diferentes.
+
+# bueno eso es todo, gei.
